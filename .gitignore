@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.pyc
+venv/
+.venv/
+*.log
+*.db
+*.sqlite
+.vscode/
+.idea/
+
+Basic_PDF_CRUD_AWS/Connection_to_postgres.py
