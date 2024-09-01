@@ -19,7 +19,7 @@ app.include_router(todos.router)
 
 origins = [
     "http://localhost:3000",
-    "https://todo-frontend-khaki.vercel.app/",
+    "https://basic-pdf-crud-aws-5.onrender.com",
 ]
 
 # CORS configuration, needed for frontend development
